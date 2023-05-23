@@ -25,4 +25,5 @@ The deal is that **all philosophers eat in turns and never die (if it is possibl
 
 Philosophers don't talk to each other and they don't know if another philosopher is going to die.
 
-<img width="717" alt="Screen Shot 2023-05-23 at 5 09 01 PM" src="https://github.com/hecikmc/philosopher-42Cursus/assets/121127625/2c27aff4-da9f-4b62-af00-a6cc5e41e83d">
+
+<img align="center" width="717" alt="Screen Shot 2023-05-23 at 5 11 29 PM" src="https://github.com/hecikmc/philosopher-42Cursus/assets/121127625/cb506e17-dc24-4cf2-a335-b887373ca854">
