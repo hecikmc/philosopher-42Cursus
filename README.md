@@ -46,15 +46,16 @@ Try running these possible fixes:
 * A philosopher must die without doing any of the following actions, eat sleep or think.
 ```shell
 ./philo 1 800 200 200
-
+```
 * No philosopher should die
 ```shell
 ./philo 5 800 200 200
-
+```
 * Everyone must eat 7 times
 ```shell
 ./philo 5 800 200 200 7
-
+```
 No philosopher should die
 ```shell
 ./philo 4 410 200 200
+```
